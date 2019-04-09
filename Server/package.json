@@ -1,0 +1,21 @@
+{
+  "name": "abc_main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^0.8.2",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0",
+    "uuid": "^3.3.2"
+  },
+  "engines": {
+    "node": "10.14"
+  },
+  "devDependencies": {},
+  "description": ""
+}
