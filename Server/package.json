@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
+  },  
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -17,5 +17,13 @@
     "node": "10.14"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadavlotan6/ABC_Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nadavlotan6/ABC_Server/issues"
+  },
+  "homepage": "https://github.com/nadavlotan6/ABC_Server#readme",
   "description": ""
 }
